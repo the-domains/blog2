@@ -1,16 +1,16 @@
-typography_spectrum: 0.37631695810705423
+typography_spectrum: 0.3917743924539536
 color:
-  brandStrength: 0.15599218453280628
-  lightness: 0.6140710590407252
-  saturation: 0.5347702896688133
-  rhythmicContrast: 0.8831114291679114
+  brandStrength: 0.7691163308918476
+  lightness: 0.05296340421773493
+  saturation: 0.13912250357680023
+  rhythmicContrast: 0.24684287048876286
   brandColors:
-    - '#000000'
-    - '#E8E5E0'
-    - '#CBC8C3'
-    - '#878380'
-    - '#64605D'
-layout_spectrum: 0.8942547584883869
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+layout_spectrum: 0.6057980854529887
 name: '#blog2'
 title: thoughts
 description: from the inside
