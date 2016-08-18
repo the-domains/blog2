@@ -1,4 +1,3 @@
-layout_spectrum: 0.8942547584883869
 typography_spectrum: 0.37631695810705423
 color:
   brandStrength: 0.15599218453280628
@@ -11,4 +10,6 @@ color:
     - '#CBC8C3'
     - '#878380'
     - '#64605D'
+layout_spectrum: 0.8942547584883869
 name: '#blog2'
+title: thoughts
