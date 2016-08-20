@@ -22,5 +22,8 @@ navigation:
   - name: us
     id: fda7f6bc-3ce7-4333-97d4-4186dd14fb9a
     type: content
+  - name: '#1'
+    id: 6e9ef67d-99e2-4700-b0ec-2c126506a058
+    type: content
 title: thoughts
 description: from the inside
