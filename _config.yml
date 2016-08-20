@@ -12,5 +12,9 @@ color:
     - '#C03000'
 layout_spectrum: 0.6057980854529887
 name: '#blog2'
+navigation:
+  - name: jim
+    id: b90264ed-3c8d-4a0d-8eb1-1ca4055aa23b
+    type: content
 title: thoughts
 description: from the inside
