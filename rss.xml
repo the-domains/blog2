@@ -4,8 +4,15 @@
         <description><![CDATA[thoughts]]></description>
         <link>https://thegrid.ai/blog2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 09:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 10:20:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blog2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b165d7e5-548c-4797-bf0b-e340e21a6de0.jpg">]]></description>
+            <link>https://thegrid.ai/blog2/b90264ed-3c8d-4a0d-8eb1-1ca4055aa23b/index.html</link>
+            <guid isPermaLink="false">b90264ed-3c8d-4a0d-8eb1-1ca4055aa23b</guid>
+            <pubDate>Sat, 20 Aug 2016 10:20:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The time we went to Santa Monica]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/774d35a4-58f0-4756-a9eb-a876ba5abd4c.jpg" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/blog2/409676cb-c2ad-46b7-860f-c061a97fea7e/index.html</link>
             <guid isPermaLink="false">409676cb-c2ad-46b7-860f-c061a97fea7e</guid>
             <pubDate>Thu, 18 Aug 2016 16:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b165d7e5-548c-4797-bf0b-e340e21a6de0.jpg">]]></description>
-            <link>https://thegrid.ai/blog2/b90264ed-3c8d-4a0d-8eb1-1ca4055aa23b/index.html</link>
-            <guid isPermaLink="false">b90264ed-3c8d-4a0d-8eb1-1ca4055aa23b</guid>
-            <pubDate>Thu, 18 Aug 2016 16:35:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
