@@ -19,5 +19,8 @@ navigation:
   - name: rocks
     id: 409676cb-c2ad-46b7-860f-c061a97fea7e
     type: content
+  - name: us
+    id: fda7f6bc-3ce7-4333-97d4-4186dd14fb9a
+    type: content
 title: thoughts
 description: from the inside
